@@ -1,0 +1,32 @@
+[
+  {
+      "id": "u2",
+      "name": "Abruzzi",
+      "bio": "Software Engineer",
+      "interests": [
+          "Technology",
+          "Reading",
+          "Music"
+      ]
+  },
+  {
+      "id": "u3",
+      "name": "Bob Smith",
+      "bio": "Frontend Developer",
+      "interests": [
+          "Art",
+          "Design",
+          "Travel"
+      ]
+  },
+  {
+      "id": "u4",
+      "name": "Carol White",
+      "bio": "UI/UX Designer",
+      "interests": [
+          "Photography",
+          "Technology",
+          "Outdoors"
+      ]
+  }
+]
